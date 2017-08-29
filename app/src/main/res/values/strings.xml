@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Week1Day2PHuaman</string>
+    <string name="student_name">Pablo Huaman</string>
+    <string name="course_name">Android Development Class</string>
+    <string name="Background_text">I come from Peru, Computer Science Major, and I enjoy learning about new technologies</string>
+</resources>
